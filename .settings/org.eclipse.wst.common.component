@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FIND_EAT_PRO">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="FIND_EAT_PRO"/>
+        <property name="java-output-path" value="/FIND_EAT_PRO/build/classes"/>
+    </wb-module>
+</project-modules>
